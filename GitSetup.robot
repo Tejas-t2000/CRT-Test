@@ -7,6 +7,7 @@ Suite Teardown                End suite
 *** Test Cases ***
 Entering A Lead
 # this edit is made on crt
+# this edit is made on git
     [tags]                    Lead                        Git Repo Exercise
     Appstate                  Home
     LaunchApp                 Sales
